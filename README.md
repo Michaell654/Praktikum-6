@@ -10,7 +10,7 @@
 | **Mata Kuliah** | Basis data |
 
 # Soal
-![alt text](Screenshot/Soal.png)
+< img src="SSreenshot/Soal.png">
 
 # ER-Diagram
 ![alt text](Screenshot/ER-D.png)
