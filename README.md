@@ -13,7 +13,7 @@
 <img src="Sreenshot/Soal.png">
 
 # ER-Diagram
-![alt text](Screenshot/ER-D.png)
+<img src="Sreenshot/Tabel.png">
 
 # Tabel Data
 ![alt text](Screenshot/Tabel.png)
