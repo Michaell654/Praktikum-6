@@ -86,7 +86,7 @@ INNER JOIN Karyawan ON Project_detail.nik = Karyawan.nik
 WHERE Karyawan.nama = 'Ari' AND Project_detail.id_proj IN (SELECT id_proj FROM Project WHERE status = 1);
 ```
 ***Output :***
-<img src="Screenshot/4.png">
+<img src="Sreenshot/4.png">
 
 
 ## 5. Siapa Saja Yang Mengerjakan Project B ?
