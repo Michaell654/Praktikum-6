@@ -99,4 +99,4 @@ WHERE Project_detail.id_proj IN (SELECT id_proj FROM Project WHERE nama = 'B');
 ```
 ***Output :***
 
-<img src="Screenshot/5.png">
+<img src="Sreenshot/5.png">
