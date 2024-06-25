@@ -13,10 +13,10 @@
 <img src="Sreenshot/Soal.png">
 
 # ER-Diagram
-<img src=Sreenshot/ER-D.png">
+<img src="Sreenshot/ER-D.png">
 
 # Tabel Data
-<img src="Screenshot/Tabel.png">
+<img src="Sreenshot/Tabel.png">
 
 # Soal Latihan Praktikum
 - Buat query untuk menampilkan:
