@@ -74,7 +74,7 @@ WHERE Departemen.nama = 'RnD' AND Project.status = 1;
 ```
 ***Output :***
 
-<img src="Screenshot/3.png">
+<img src="Sreenshot/3.png">
 
 
 ## 4. Berapa banyak Project yang sedang dikerjakan oleh Ari ?
