@@ -59,7 +59,7 @@ GROUP BY Project.id_proj, Departemen.id_dept;
 ```
 ***Output :***
 
-<img src="Screenshot/2.png">
+<img src="Sreenshot/2.png">
 
 
 ## 3. Ada Berapa Project Yang Sedang Dikerjakan Oleh Departemen ***RnD***? (ket: project berjalan adalah yang statusnya 1).
